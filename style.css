@@ -1,0 +1,12 @@
+button{
+     width: 120px;
+}
+
+#button_div{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position:fixed;
+    bottom:10px;
+    width:100%;
+}
